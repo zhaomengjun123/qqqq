@@ -1,0 +1,16 @@
+#divv>img{ 
+	width:100%;
+	}
+.card{
+	background-color:white;
+	border-radius:10px;
+	overflow:hidden;
+	margin-bottom:10px;
+		}
+.card>img{width:100%;}
+.card>p:first-of-type{
+	display:flex;
+	justify-content:space-between;
+}
+.color_pink{color:rgb(222,61,150);
+font-weight:bold;}
